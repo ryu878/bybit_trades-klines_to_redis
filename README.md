@@ -7,6 +7,12 @@ Saves OHLC data (klines) and trades from Bybit websockets to the Redis
 
 <code>pip install pybit</code>
 
+## how to run
+
+First you have to turn your Redis database on with that command:
+
+<code>docker run -d --name redis-stack -p 6379:6379 -p 8001:8001 redis/redis-stack:latest</code>
+
 
 ## Disclaimer
 <hr>
