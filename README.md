@@ -7,7 +7,7 @@ Saves OHLC data (klines) and trades from Bybit websockets to the Redis
 
 <code>pip install pybit</code>
 
-## how to run
+## How to run
 
 First you have to turn your Redis database on with that command:
 
