@@ -6,6 +6,7 @@ Saves OHLC data (klines) and trades from Bybit websockets to the Redis
 ## Requirements
 
 <code>pip install pybit</code>
+<code>pip install pandas</code>
 
 ## How to run
 
